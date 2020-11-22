@@ -2,7 +2,8 @@
 Projeto de estudos de Estrutura de Dados
 
 PARTE1
-Nesta etapa, você deve implementar uma representação dinâmica de  lista simplesmente encadeada com descritor, chamada ListaArquivos. As  seguintes atividades deverão ser desenvolvidas:
+Nesta etapa, você deve implementar uma representação dinâmica de  lista simplesmente encadeada com descritor, chamada ListaArquivos. 
+As  seguintes atividades deverão ser desenvolvidas:
  1)     Adaptação de representação dos nós de uma lista simplesmente encadeada com descritor.
  Em geral, os nós de uma lista simplesmente encadeada contêm a seguinte estrutura:
  Tipo NoLista{
@@ -12,7 +13,7 @@ Nesta etapa, você deve implementar uma representação dinâmica de  lista sim
 A estrutura de dados implementada nesta etapa deve ter a seguinte representação:
  Tipo NoLista{
      string dado;   // este campo será usado para armazenar o nome de um arquivo
-     inteiro frequencia   // este campo será usado para armazenar um  número inteiro que corresponda à quantidade de vezes que um termo  aparece dentro do arquivo
+     inteiro frequencia   // este campo será usado para armazenar um  número inteiro que corresponda à quantidade de vezes que um termo aparece dentro do arquivo
      NoLista ref proximo;
 }
 Exemplo:
