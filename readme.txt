@@ -1,3 +1,4 @@
+PARTE1
 Nesta etapa, você deve implementar uma representação dinâmica de  lista simplesmente encadeada com descritor, chamada ListaArquivos. As  seguintes atividades deverão ser desenvolvidas:
  1)     Adaptação de representação dos nós de uma lista simplesmente encadeada com descritor.
  Em geral, os nós de uma lista simplesmente encadeada contêm a seguinte estrutura:
@@ -24,6 +25,8 @@ Ao inserir o arquivo “Arquivo 65.txt” com frequência 8, a lista anterior se
 Exemplo:
 Para a lista do item 2.1, o valor retornado para “Arquivo 12.txt” é 14.
 Espera-se que você se familiarize com as representações e algoritmos baseados em listas lineares.
+
+
 
 PARTE2
 
@@ -65,6 +68,8 @@ Figura 1 – Representação de árvore binária de busca para o buscador de arq
  
 Espera-se que você se familiarize com as representações e algoritmos  baseados em árvores, sendo capaz de estendê-los e adaptá-los.
 
+
+
 PARTE 3
 Nesta etapa, você deve implementar uma classe chamada Buscador com  métodos iniciais, que permitam identificar os arquivos que possuem  determinados termos. Os itens a ser implementados são os seguintes:
 1) A classe Buscador deve ter a seguinte estrutura mínima (pode ter informações adicionais, se achar necessário):
@@ -76,6 +81,7 @@ ListaArquivos busca(String termo)
 Considerando a árvore representada na Figura 1, a busca pelo termo “bola” deve retornar a lista: 
 “arq1“ (2) -> “arq2” (1)
 Espera-se que você se familiarize com técnicas de busca em árvores.
+
 
 
 PARTE4
